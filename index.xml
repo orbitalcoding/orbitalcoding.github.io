@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Orbital Coding</title>
+    <link>http://orbitalcoding.com/</link>
+    <description>Recent content on Orbital Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://orbitalcoding.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another point about Static Site Generators</title>
+      <link>http://orbitalcoding.com/post/2017-07-19-another-point-static-generators/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://orbitalcoding.com/post/2017-07-19-another-point-static-generators/</guid>
+      <description>Yes, static website site generators like http://gohugo.io are light on server resources and provide a great workflow. However there&amp;rsquo;s one limitation worth mentioning : editing on the go.
+Indeed when using a CMS like WordPress editing options abound for the wandering blogger. WordPress offers a dedicated iOS and Android app. Moreover other dedicated editors specialize in WordPress content creation. And last, you can default to using the web interface either through wordpress.</description>
+    </item>
+    
+    <item>
+      <title>Code First, Granular Testing</title>
+      <link>http://orbitalcoding.com/post/2017-06-02-granular-testing/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://orbitalcoding.com/post/2017-06-02-granular-testing/</guid>
+      <description>Yes, TDD and BDD are great techniques, but is there a way to start testing when you’re a beginner developer and you seem to have a hard time getting into TDD or BDD?
+If at first TDD or BDD don’t seem to work for your brain you might want to try a different approach. There is nothing inherently wrong with these two testing paradigms. But I feel a different approach might work better for less-seasoned programmers like me.</description>
+    </item>
+    
+    <item>
+      <title>YAML vs TOML</title>
+      <link>http://orbitalcoding.com/post/2017-06-01-yaml-vs-toml/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://orbitalcoding.com/post/2017-06-01-yaml-vs-toml/</guid>
+      <description>Hugo supports both YAML and TOML for configuration and content matter. You can even use JSON if you feel adventurous (less readable )</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Orbital Coding</title>
+      <link>http://orbitalcoding.com/post/2017-05-19-welcome/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://orbitalcoding.com/post/2017-05-19-welcome/</guid>
+      <description>Or should I say welcome again ?
+Switching to Hugo Orbital Coding now uses Hugo, a static site generator.
+Yes, WordPress is a great content management system, but it require a database and active server side code. Running code on the server alongside a database require more resources while increasing the attack surface.</description>
+    </item>
+    
+  </channel>
+</rss>

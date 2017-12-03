@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Orbital Coding</title>
+    <link>http://orbitalcoding.com/tags/hugo/</link>
+    <description>Recent content in Hugo on Orbital Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://orbitalcoding.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another point about Static Site Generators</title>
+      <link>http://orbitalcoding.com/post/2017-07-19-another-point-static-generators/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://orbitalcoding.com/post/2017-07-19-another-point-static-generators/</guid>
+      <description>Yes, static website site generators like http://gohugo.io are light on server resources and provide a great workflow. However there&amp;rsquo;s one limitation worth mentioning : editing on the go.
+Indeed when using a CMS like WordPress editing options abound for the wandering blogger. WordPress offers a dedicated iOS and Android app. Moreover other dedicated editors specialize in WordPress content creation. And last, you can default to using the web interface either through wordpress.</description>
+    </item>
+    
+  </channel>
+</rss>

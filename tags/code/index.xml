@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Orbital Coding</title>
+    <link>http://orbitalcoding.com/tags/code/</link>
+    <description>Recent content in Code on Orbital Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://orbitalcoding.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code First, Granular Testing</title>
+      <link>http://orbitalcoding.com/post/2017-06-02-granular-testing/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://orbitalcoding.com/post/2017-06-02-granular-testing/</guid>
+      <description>Yes, TDD and BDD are great techniques, but is there a way to start testing when you’re a beginner developer and you seem to have a hard time getting into TDD or BDD?
+If at first TDD or BDD don’t seem to work for your brain you might want to try a different approach. There is nothing inherently wrong with these two testing paradigms. But I feel a different approach might work better for less-seasoned programmers like me.</description>
+    </item>
+    
+  </channel>
+</rss>

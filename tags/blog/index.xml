@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on Orbital Coding</title>
+    <link>http://orbitalcoding.com/tags/blog/</link>
+    <description>Recent content in Blog on Orbital Coding</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://orbitalcoding.com/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Orbital Coding</title>
+      <link>http://orbitalcoding.com/post/2017-05-19-welcome/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://orbitalcoding.com/post/2017-05-19-welcome/</guid>
+      <description>Or should I say welcome again ?
+Switching to Hugo Orbital Coding now uses Hugo, a static site generator.
+Yes, WordPress is a great content management system, but it require a database and active server side code. Running code on the server alongside a database require more resources while increasing the attack surface.</description>
+    </item>
+    
+  </channel>
+</rss>
